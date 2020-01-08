@@ -21,95 +21,158 @@
     <div class="news-bar" id="menu2">
         <p>ستكون هنا عناوين آخر الأخبار والمقالات</p>
     </div>
-
-    <header>
+    <header style="dir:rtl;">
         <div class="header1">
             <a href="">
                 <img src="image/02.jpg" alt="">
-                <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+               <h2>
+                    <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
             </a>
         </div>
         
         <div class="header2">
             <a href="">
                 <img src="image/05.jpg" alt="">
-                <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                <h2>
+                    <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                   ?></h2>
             </a>
         </div>
-
         <div class="header3">
             <a href="" style="float: right;">
                 <img src="image/06.jpg" alt="" style="width: 100%;">
-                <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                <h2> <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
             </a>
             <a href="">
                 <img src="image/04.jpg" alt="">
-                <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                <h2><?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?>
+                </h2>
             </a>
             
         </div>
     </header>
-
-
     <main>
         <article>
             <div class="box-img">
                 <a href="">
-                    <img src="image/01.jpeg" alt="">
-                    <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                    <img src="image/01.jpg" alt="">
+                    <h2> <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
                 </a>
             </div>
             <div class="box-img">
                 <a href="">
                     <img src="image/02.jpg" alt="">
-                    <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                    <h2> <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
                 </a>
             </div>
             <div class="box-img">
                 <a href="">
                     <img src="image/03.jpg" alt="">
-                    <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                    <h2> <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
                 </a>
             </div>
             <div class="box-img">
                 <a href="">
                     <img src="image/04.jpg" alt="">
-                    <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                    <h2> <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
                 </a>
             </div>
             <div class="box-img">
                 <a href="">
                     <img src="image/05.jpg" alt="">
-                    <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                    <h2> <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
                 </a>
             </div>
             <div class="box-img">
                 <a href="">
                     <img src="image/06.jpg" alt="">
-                    <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                    <h2> <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
                 </a>
             </div>
             <div class="box-img">
                 <a href="">
                     <img src="image/07.jpg" alt="">
-                    <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                    <h2> <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
                 </a>
             </div>
             <div class="box-img">
                 <a href="">
                     <img src="image/08.jpg" alt="">
-                    <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                    <h2> <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
                 </a>
             </div>
             <div class="box-img">
                 <a href="">
                     <img src="image/09.jpg" alt="">
-                    <h2>جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار</h2>
+                    <h2> <?php
+                    $var = 
+                        "جوجل تستخدم الذكاء الاصطناعي في محرك بحث الأخبار";                
+                    echo substr($var,0,70);
+                  echo"<a href='' style='color:red;'>...أكتر</a>";
+                     ?></h2>
                 </a>
             </div>
         </article>
     </main>
-
     <footer>
         <a href="#menu2" title="TOP" class="back"><i class="fas fa-angle-up"></i></a>
         <p>© Copyright 2019, All Rights Reserved</p>
@@ -121,7 +184,6 @@
             <a class="instagram" title="Instagram" onclick="instagram()"><i class="fab fa-instagram"></i></a>
         </div>
     </footer>
-
     <script src="script.js"></script>
 </body>
 </html>
